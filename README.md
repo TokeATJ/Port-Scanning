@@ -192,6 +192,8 @@ This command generates UDP traffic with spoofed source addresses.
 
 The target system received multiple UDP packets with randomized source addresses.
 
+<img width="682" height="569" alt="image" src="https://github.com/user-attachments/assets/3393d9b0-e3e1-4a96-aac7-d43b84c460de" />
+
 ---
 
 # Part 6: UDP Traffic Analysis
@@ -213,7 +215,7 @@ Wireshark showed:
 
 The randomized source addresses demonstrate how attackers may attempt to obscure the true origin of UDP traffic.
 
-<img width="682" height="569" alt="image" src="https://github.com/user-attachments/assets/f3a2c385-d769-4c75-b1cf-36472904964c" />
+<img width="682" height="569" alt="image" src="https://github.com/user-attachments/assets/5743bf42-0911-4394-97fe-1163a85006da" />
 
 <img width="901" height="659" alt="image" src="https://github.com/user-attachments/assets/4713c6ea-2f1e-4e52-ab98-dbfe214ca747" />
 

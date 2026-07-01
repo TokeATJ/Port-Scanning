@@ -287,9 +287,13 @@ Identify services exposed through NetBIOS.
 | <0x00> | Workstation Service |
 | <0x20> | File Server Service |
 
+
 ## Analysis
 
 NetBIOS enumeration provides valuable information about Windows systems, including workstation identities and file-sharing services.
+
+<img width="339" height="102" alt="image" src="https://github.com/user-attachments/assets/e8548b0b-1363-4bf2-b803-41d1b4be185f" />
+
 
 ---
 
